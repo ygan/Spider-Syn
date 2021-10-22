@@ -1,0 +1,4 @@
+textattack
+nltk
+spacy==2.2.3
+ipython==7.19.0
